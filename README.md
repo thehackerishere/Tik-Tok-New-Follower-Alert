@@ -1,6 +1,7 @@
 # Welcome to the Tik-Tok Follower notification Github!!
 
 ## Follow these instructions and you will have the program running in no time!
+## If you get any errors, comment on my videos on tik-tok : @itz_mattr
 
 ### Installing python
 Click the following and download that exe: https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
