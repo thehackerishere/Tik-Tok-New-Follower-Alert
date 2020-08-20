@@ -21,7 +21,7 @@ def after():
 
 
 followcopy = get_follow()
-print("Followcopy :", followcopy)
+print("Current amount of followers! :", followcopy)
 
 while True:
     get_follows = get_follow()
