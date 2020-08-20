@@ -6,7 +6,7 @@
 Click the following and download that exe: https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
 After running the install EXE, hit both checkboxes at the botom of the popup and then hit install now.
 
-#### Once installed visit this link
+### Download the project!
 
 ## Downloading the files
 https://github.com/thehackerishere/Tik-Tok-New-Follower-Alert/archive/master.zip
