@@ -1,7 +1,34 @@
-# Tik-Tok-New-Follower-Alert
+# Welcome to the Tik-Tok Follower notification Github!!
 
-Before Running run this in terminal/command line:
+## Follow these instructions and you will have the program running in no time!
 
-pip install TikTokAPI && pip install playsound
+## Installing python
+Click that link and download that exe: https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
+After running the install link, hit both checkboxes at the botom of the popup and then hit install now.
 
-CHANGE THE VARIABLES IN THE PYTHON FILES TO FIT YOUR USERNAME!
+#### Once installed visit this link
+
+## Downloading the files
+https://github.com/thehackerishere/Tik-Tok-New-Follower-Alert/archive/master.zip
+and unzip the file.
+
+#### Now configure the program for you!
+
+## Configuring and running
+Go into the unzipped file and decide what you want to do.
+###To play a sound - go to the examples folder and then follow the steps for main.py
+###To say "New follower" or "Lost a follower" or add your own code, use the first main.py you see for these steps
+
+right-click the chosen file and select edit with IDLE and then the 64 bit option. Now look for the
+>USERNAME = "tiktok"
+Line and change tiktok to your username. Eg. USERNAME = "itz_mattr"
+
+## Installing the API and running the program
+ The final step is to open terminal ( windows key + r then cmd and enter)
+ and type 
+ > pip install TikTokAPI && pip install playsound
+ 
+ ### FINALLY RUN THE PROGRAM AND EXPERIENCE THE MADNESS!
+
+
+
